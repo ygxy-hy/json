@@ -49,9 +49,9 @@
         "backTrafficNo": "",
         "professional": "",
         "personType": "",
-        "personCategory": '',
+       
         "temperature": 35.8,
-        "remarks": '',
+      
         "timeToLeaveHuBei": "",
         "dateOfDisengagement": "",
         "otherSymptoms": "",
@@ -71,7 +71,7 @@
         "isVaccinate": "1",
         "vaccineType": "2",
         "injectTimes": "3",
-        "otherDesc": '',
+        
         "isContactWithDiagnosis": "N",
         "isInSchool": "",
         "stMobile": "15874893962"
@@ -106,9 +106,9 @@
         "backTrafficNo": "",
         "professional": "",
         "personType": "",
-        "personCategory": '',
+       
         "temperature": 36.1,
-        "remarks": '',
+       
         "timeToLeaveHuBei": "",
         "dateOfDisengagement": "",
         "otherSymptoms": "",
@@ -128,7 +128,7 @@
         "isVaccinate": "1",
         "vaccineType": "2",
         "injectTimes": "3",
-        "otherDesc": '',
+      
         "isContactWithDiagnosis": "N",
         "isInSchool": "",
         "stMobile": "18136461104"
