@@ -1,5 +1,4 @@
 {
-   nul:'',
 "cookies" :
    ["IN008=8001|YvZzM; zg_did=%7B%22did%22%3A%20%22182bb55b48c2b0-0c67e6c6e72027-4b6b7d67-46500-182bb55b48d272%22%7D; zg_002714230c264ddda7d94375a4d23e40=%7B%22sid%22%3A%201661000332447%2C%22updated%22%3A%201661000333767%2C%22info%22%3A%201661000332459%2C%22superProperty%22%3A%20%22%7B%5C%22user_id%5C%22%3A%20%5C%22a3a7cc5d9523a40b%5C%22%2C%5C%22app_id%5C%22%3A%20%5C%22lcsc78dgrvpartmi%5C%22%2C%5C%22app_name%5C%22%3A%20%5C%22C_LCS%5C%22%2C%5C%22app_version%5C%22%3A%20%5C%222.0.6%5C%22%2C%5C%22platform_id%5C%22%3A%20%5C%22mbs%5C%22%7D%22%2C%22platform%22%3A%20%22%7B%7D%22%2C%22utm%22%3A%20%22%7B%7D%22%2C%22referrerDomain%22%3A%20%22ibsbjstar.ccb.com.cn%22%7D; IN047=47001|YxYnx; tsgcx=2ef694d1-7789-44f4-8dd7-f03cc3eab924; sid=0689e997-8884-4db0-ad7d-22412930ef23; tgw_l7_route=d73149ab3f086e8d0cf04b5f79c1bd9e; IN001=1002|YzEyN; IN010=10001|YzEyO",
     "IN008=8001|YvZzM; zg_did=%7B%22did%22%3A%20%22182bb55b48c2b0-0c67e6c6e72027-4b6b7d67-46500-182bb55b48d272%22%7D; zg_002714230c264ddda7d94375a4d23e40=%7B%22sid%22%3A%201661000332447%2C%22updated%22%3A%201661000333767%2C%22info%22%3A%201661000332459%2C%22superProperty%22%3A%20%22%7B%5C%22user_id%5C%22%3A%20%5C%22a3a7cc5d9523a40b%5C%22%2C%5C%22app_id%5C%22%3A%20%5C%22lcsc78dgrvpartmi%5C%22%2C%5C%22app_name%5C%22%3A%20%5C%22C_LCS%5C%22%2C%5C%22app_version%5C%22%3A%20%5C%222.0.6%5C%22%2C%5C%22platform_id%5C%22%3A%20%5C%22mbs%5C%22%7D%22%2C%22platform%22%3A%20%22%7B%7D%22%2C%22utm%22%3A%20%22%7B%7D%22%2C%22referrerDomain%22%3A%20%22ibsbjstar.ccb.com.cn%22%7D; IN047=47001|YxYnx; tsgcx=2ef694d1-7789-44f4-8dd7-f03cc3eab924; sid=30d1b27f-5b6e-4cdb-b0cc-f515930b14ff; IN001=1002|YzGT0; tgw_l7_route=962a3b4779bd6f5c07dde82e79a16128; IN010=10004|YzGT2",
@@ -50,9 +49,9 @@
         "backTrafficNo": "",
         "professional": "",
         "personType": "",
-        "personCategory": nul,
+        "personCategory": '',
         "temperature": 35.8,
-        "remarks": nul,
+        "remarks": '',
         "timeToLeaveHuBei": "",
         "dateOfDisengagement": "",
         "otherSymptoms": "",
@@ -72,7 +71,7 @@
         "isVaccinate": "1",
         "vaccineType": "2",
         "injectTimes": "3",
-        "otherDesc": nul,
+        "otherDesc": '',
         "isContactWithDiagnosis": "N",
         "isInSchool": "",
         "stMobile": "15874893962"
@@ -107,9 +106,9 @@
         "backTrafficNo": "",
         "professional": "",
         "personType": "",
-        "personCategory": nul,
+        "personCategory": '',
         "temperature": 36.1,
-        "remarks": nul,
+        "remarks": '',
         "timeToLeaveHuBei": "",
         "dateOfDisengagement": "",
         "otherSymptoms": "",
@@ -129,7 +128,7 @@
         "isVaccinate": "1",
         "vaccineType": "2",
         "injectTimes": "3",
-        "otherDesc": nul,
+        "otherDesc": '',
         "isContactWithDiagnosis": "N",
         "isInSchool": "",
         "stMobile": "18136461104"
