@@ -22,7 +22,7 @@
         { "firstName":"John" , "lastName":"Doe" },
         { "firstName":"Anna" , "lastName":"Smith" },
         { "firstName":"Peter" , "lastName":"Jones" }
-    ]
+    ],
    
    "datasf":[
    {
@@ -55,9 +55,9 @@
         "backTrafficNo": "",
         "professional": "",
         "personType": "",
-        "personCategory": nul,
+    
         "temperature": 35.8,
-        "remarks": nul,
+       
         "timeToLeaveHuBei": "",
         "dateOfDisengagement": "",
         "otherSymptoms": "",
@@ -77,7 +77,7 @@
         "isVaccinate": "1",
         "vaccineType": "2",
         "injectTimes": "3",
-        "otherDesc": nul,
+   
         "isContactWithDiagnosis": "N",
         "isInSchool": "",
         "stMobile": "15874893962"
@@ -112,9 +112,9 @@
         "backTrafficNo": "",
         "professional": "",
         "personType": "",
-        "personCategory": nul,
+       
         "temperature": 36.1,
-        "remarks": nul,
+       
         "timeToLeaveHuBei": "",
         "dateOfDisengagement": "",
         "otherSymptoms": "",
@@ -134,7 +134,7 @@
         "isVaccinate": "1",
         "vaccineType": "2",
         "injectTimes": "3",
-        "otherDesc": nul,
+       
         "isContactWithDiagnosis": "N",
         "isInSchool": "",
         "stMobile": "18136461104"
