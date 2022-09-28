@@ -24,7 +24,7 @@
         { "firstName":"Peter" , "lastName":"Jones" }
     ],
    
-"headers" : {
+"head" : {
     'Host': 'app.xiaoyuan.ccb.com',
     'Connection': 'keep-alive',
     'Content-Length': '1185',
