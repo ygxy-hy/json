@@ -284,9 +284,9 @@
         "backTrafficNo": "",
         "professional": "",
         "personType": "",
-        "personCategory": nul,
+       
         "temperature": 36.3,
-        "remarks": nul,
+       
         "timeToLeaveHuBei": "",
         "dateOfDisengagement": "",
         "otherSymptoms": "",
@@ -306,7 +306,7 @@
         "isVaccinate": "1",
         "vaccineType": "2",
         "injectTimes": "3",
-        "otherDesc": nul,
+        
         "isContactWithDiagnosis": "N",
         "isInSchool": "",
         "stMobile": "19932788032"
