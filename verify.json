@@ -1,6 +1,6 @@
 {
-  "update-flag": true,
-  "receive-flag": true,
+  "updateflag": true,
+  "receiveflag": true,
   "course":"2022-09-29\n课程数据:AM1-2,PM1-4,evening:1-2\n课程较多,请合理安排时间",
   "mymsg":"张扬帆say : 问路才不会迷路，留退路才不会有绝路，敢回头就没有死路。失去了不一定是失败，成功了也不一定是成就，可以逃避现实，但不能逃避人生。早安",
   "aaa":"",
