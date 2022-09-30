@@ -1,10 +1,10 @@
 {
   "canuse":true,
-  "updateflag": true,
+  "updateflag": false,
   "receiveflag": true,
   "course":"机设三班推送:",
   "mymsg":"老张say : 还没青年大学习的抓紧了!",
-  "aaa":"欢迎邹堃同学的加入!",
+  "aaa":"",
   "bbb":"2022-09-30周五\n课程数据:AM3-4 night:1-2\n上课地点:兴教C108 逸夫楼308",
   "ccc":"还有需要加入互助打卡的,联系QQ:3223728729"
 }
